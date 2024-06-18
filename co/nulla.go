@@ -1,0 +1,1 @@
+	games := walletContents.Nfts  
